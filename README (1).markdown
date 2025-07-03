@@ -89,11 +89,7 @@ Get the app running locally in just a few steps:
 ├── package-lock.json         # Dependency lock file for consistent installs
 ├── pglite-debug.log          # Debug log file (ignored by .gitignore)
 ├── public/
-│   ├── css/
-│   │   └── styles.css        # Styling with responsive design
-│   ├── js/
-│   │   └── app.js            # Logic for API calls and interactivity
-│   └── index.html            # Core HTML structure
+│   ├── index.html            # Core HTML structure   
 ```
 
 ---
