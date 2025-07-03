@@ -1,8 +1,6 @@
 # 🌤️ Weather Web Application
 
-**Summary**: Developed a responsive web application leveraging the OpenWeatherMap API to deliver real-time weather data and 5-day forecasts, including temperature, pressure, and wind speed. Designed an intuitive, user-friendly UI/UX using HTML, CSS, and JavaScript, demonstrating strong API integration and front-end development expertise.
-
-Welcome to the **Weather Web Application**, a sleek and responsive web app that delivers real-time weather updates and 5-day forecasts powered by the [OpenWeatherMap API](https://openweathermap.org/). Hosted on Firebase, this app showcases temperature, pressure, humidity, and wind speed in a visually engaging format, optimized for all devices.
+Welcome to the Weather Web Application, a sleek and responsive web app that delivers real-time weather updates and 5-day forecasts powered by the OpenWeatherMap API. With a modern and intuitive UI/UX, this app showcases temperature, pressure, humidity, and wind speed in a visually engaging format, optimized for all devices.
 
 ---
 
