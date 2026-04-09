@@ -4,7 +4,9 @@ Welcome to the Weather Web Application, a sleek and responsive web app that deli
 
 ---
 
-**Link:https://weatherwebapp-45d60.web.app/
+Link:https://weatherwebapp-45d60.web.app/
+
+---
 
 ## ✨ Features
 
